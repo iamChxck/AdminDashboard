@@ -6,7 +6,7 @@ const Header = ({ title }) => {
                 <h1 className="text-2x1 font-semibold text-gray-100">{title}</h1>
             </div>
         </header>
-    )
-}
+    );
+};
 
-export default Header
+export default Header;
