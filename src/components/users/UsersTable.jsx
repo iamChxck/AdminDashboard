@@ -50,27 +50,27 @@ const UsersTable = () => {
                             <th
                                 className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider"
                             >
-                                Name
+                                NAME
                             </th>
                             <th
                                 className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider"
                             >
-                                Email
+                                EMAIL
                             </th>
                             <th
                                 className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider"
                             >
-                                Role
+                                ROLE
                             </th>
                             <th
                                 className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider"
                             >
-                                Status
+                                STATUS
                             </th>
                             <th
                                 className="px-6 py-3 text-left text-xs font-medium text-gray-400 uppercase tracking-wider"
                             >
-                                Actions
+                                ACTIONS
                             </th>
                         </tr>
                     </thead>

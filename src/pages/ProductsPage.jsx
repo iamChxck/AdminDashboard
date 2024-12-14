@@ -4,8 +4,8 @@ import { AlertTriangle, DollarSign, Package, TrendingUp } from "lucide-react";
 import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
 import CategoryDistributionChart from "../components/overview/CategoryDistributionChart";
-import SalesTrendChart from "../components/Products/SalesTrendChart";
-import ProductsTable from "../components/Products/ProductsTable";
+import SalesTrendChart from "../components/products/SalesTrendChart";
+import ProductsTable from "../components/products/ProductsTable";
 
 const ProductsPage = () => {
   return (
