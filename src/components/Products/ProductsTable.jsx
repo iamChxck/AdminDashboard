@@ -117,7 +117,7 @@ const ProductsTable = () => {
                 </td>
 
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
-                  ${product.stock}
+                  {product.stock}
                 </td>
 
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
